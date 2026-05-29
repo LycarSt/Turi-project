@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.zip
+pcd_output/
+implementation_plan.md
