@@ -13,7 +13,7 @@ def get_pcd_folder():
         # Ruta en tu PC de desarrollo Windows (OneDrive)
         r"c:\Users\curay\OneDrive\Documentos\LABIAR\pcd_output\pcd_output\Pruebas_posicion_1_up",
         # Ruta por defecto de Linux del manual
-        "/home/labia-001/pcd_output/Pruebas_posicion_2",
+        "/home/labime puedea-001/pcd_output/Pruebas_posicion_2",
         "/home/labia-001/pcd_output/Pruebas_posicion_1_up",
         # Rutas relativas
         "../pcd_output/pcd_output/Pruebas_posicion_1_up",
