@@ -1,0 +1,31 @@
+{
+    "classes": [
+        {
+            "name": "Pedestrian",
+            "id": 0,
+            "color": "#ff3e3e"
+        },
+        {
+            "name": "Car",
+            "id": 1,
+            "color": "#ffea00"
+        },
+        {
+            "name": "Obstacle",
+            "id": 2,
+            "color": "#39ff14"
+        },
+        {
+            "name": "Furniture",
+            "id": 3,
+            "color": "#bd00ff"
+        }
+    ],
+    "default": 2,
+    "type": "object_detection",
+    "format": "centroid_abs",
+    "created_with": {
+        "name": "labelCloud",
+        "version": "1.1.1"
+    }
+}

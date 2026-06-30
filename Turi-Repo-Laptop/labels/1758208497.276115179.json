@@ -1,0 +1,25 @@
+{
+	"folder": "pointclouds",
+	"filename": "1758208497.276115179.ply",
+	"path": "/home/labia-001/Repo/turi-project/pointclouds/1758208497.276115179.ply",
+	"objects": [
+		{
+			"name": "Pedestrian",
+			"centroid": {
+				"x": 1.69870176,
+				"y": -0.00977789,
+				"z": 0.24205703
+			},
+			"dimensions": {
+				"length": 0.75,
+				"width": 0.61,
+				"height": 0.78
+			},
+			"rotations": {
+				"x": 0,
+				"y": 0,
+				"z": 0
+			}
+		}
+	]
+}

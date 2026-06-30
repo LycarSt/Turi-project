@@ -1,0 +1,79 @@
+{
+	"folder": "pointclouds",
+	"filename": "1758208492.275396347.ply",
+	"path": "/home/labia-001/Repo/turi-project/pointclouds/1758208492.275396347.ply",
+	"objects": [
+		{
+			"name": "Pedestrian",
+			"centroid": {
+				"x": -1.011854,
+				"y": -0.782627,
+				"z": 0.037852
+			},
+			"dimensions": {
+				"length": 0.37586,
+				"width": 0.265089,
+				"height": 0.518841
+			},
+			"rotations": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"name": "Pedestrian",
+			"centroid": {
+				"x": 1.884638,
+				"y": 0.484227,
+				"z": 0.124922
+			},
+			"dimensions": {
+				"length": 0.452557,
+				"width": 0.524144,
+				"height": 0.864214
+			},
+			"rotations": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"name": "Obstacle",
+			"centroid": {
+				"x": -203.52798844,
+				"y": -34.49551893,
+				"z": -203.11417398
+			},
+			"dimensions": {
+				"length": 0.75,
+				"width": 0.55,
+				"height": 0.15
+			},
+			"rotations": {
+				"x": 0,
+				"y": 0,
+				"z": 0
+			}
+		},
+		{
+			"name": "Furniture",
+			"centroid": {
+				"x": 0.6554732,
+				"y": -1.73975272,
+				"z": 0.34830166
+			},
+			"dimensions": {
+				"length": 0.75,
+				"width": 0.55,
+				"height": 0.75
+			},
+			"rotations": {
+				"x": 0,
+				"y": 0,
+				"z": 0
+			}
+		}
+	]
+}

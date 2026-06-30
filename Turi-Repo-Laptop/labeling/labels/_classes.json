@@ -1,0 +1,27 @@
+{
+    "classes": [
+        {
+            "name": "Pedestrian",
+            "id": 0,
+            "color": "#FF3E3E"
+        },
+        {
+            "name": "Car",
+            "id": 1,
+            "color": "#FFEA00"
+        },
+        {
+            "name": "Obstacle",
+            "id": 2,
+            "color": "#39FF14"
+        },
+        {
+            "name": "Furniture",
+            "id": 3,
+            "color": "#BD00FF"
+        }
+    ],
+    "default": 2,
+    "type": "object_detection",
+    "format": "centroid_abs"
+}

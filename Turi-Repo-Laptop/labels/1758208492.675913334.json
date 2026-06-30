@@ -1,0 +1,43 @@
+{
+	"folder": "pointclouds",
+	"filename": "1758208492.675913334.ply",
+	"path": "/home/labia-001/Repo/turi-project/pointclouds/1758208492.675913334.ply",
+	"objects": [
+		{
+			"name": "Obstacle",
+			"centroid": {
+				"x": -1.019136,
+				"y": -0.750813,
+				"z": 0.036483
+			},
+			"dimensions": {
+				"length": 0.205925,
+				"width": 0.194358,
+				"height": 0.51596
+			},
+			"rotations": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		},
+		{
+			"name": "Pedestrian",
+			"centroid": {
+				"x": 1.882888,
+				"y": 0.481166,
+				"z": 0.124866
+			},
+			"dimensions": {
+				"length": 0.440993,
+				"width": 0.51748,
+				"height": 0.859155
+			},
+			"rotations": {
+				"x": 0.0,
+				"y": 0.0,
+				"z": 0.0
+			}
+		}
+	]
+}

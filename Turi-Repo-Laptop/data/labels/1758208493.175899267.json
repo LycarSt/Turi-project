@@ -1,0 +1,51 @@
+{
+  "frame": "1758208493.175899267.pcd",
+  "timestamp": 1758208493.1758993,
+  "sensor": "Lidar",
+  "annotations": [
+    {
+      "id": "obj_0001",
+      "type": "PERSON",
+      "bbox3d": {
+        "center": [
+          0.5,
+          2.0,
+          -0.2
+        ],
+        "dimensions": [
+          0.6,
+          0.6,
+          1.8
+        ],
+        "rotation_y": 0.0
+      },
+      "score": 1.0,
+      "attributes": {
+        "occluded": false,
+        "truncated": false
+      }
+    },
+    {
+      "id": "obj_0002",
+      "type": "OBSTACLE",
+      "bbox3d": {
+        "center": [
+          -1.0,
+          3.5,
+          0.1
+        ],
+        "dimensions": [
+          0.8,
+          0.8,
+          1.0
+        ],
+        "rotation_y": 0.5
+      },
+      "score": 1.0,
+      "attributes": {
+        "occluded": true,
+        "truncated": false
+      }
+    }
+  ]
+}
